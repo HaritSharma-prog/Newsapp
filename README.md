@@ -1,3 +1,5 @@
+# Note: This News app api is not supported for production so to check it/run it import zip file or clone it using git.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
